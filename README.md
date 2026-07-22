@@ -23,12 +23,7 @@ The objective of this project is to design and implement an intelligent mobile r
 
 
 
-## Circuit Diagram
 
-```
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/1238ccd2-b07d-4c23-8ba9-38bb1307741b" />
-C:\Users\tiafe\Downloads\voicecontrolrobot.jpeg
-```
 
 ## How It Works
 1. The ultrasonic sensor continuously measures distance to obstacles ahead.
@@ -55,20 +50,9 @@ C:\Users\tiafe\Downloads\voicecontrolrobot.jpeg
 2. Use a serial Bluetooth terminal app (e.g., "Arduino Bluetooth Controller" or "Serial Bluetooth Terminal") to send commands, or a voice-to-text app that forwards recognized speech as serial text.
 3. Send commands (`F` = forward, `B` = backward, `L` = left, `R` = right, `S` = stop) to manually drive the robot; leave it idle to let autonomous obstacle avoidance take over.
 
-## Repository Structure
-```
-project-name/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── firmware/          # Arduino sketch(es)
-├── hardware/          # Circuit schematics, wiring diagrams
-├── docs/              # Reports, block diagrams
-└── media/             # Photos, demo videos/GIFs
-```
 
-## Demo
-*(Add a photo or short GIF/video link of the robot in action here.)*
+
+
 
 ## Future Improvements
 - Add a servo-mounted ultrasonic sensor for a wider field of view
