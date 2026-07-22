@@ -16,18 +16,17 @@ The objective of this project is to design and implement an intelligent mobile r
 | HC-SR04 Ultrasonic Sensor | 1 (or more) | Obstacle detection / distance measurement |
 | HC-05 Bluetooth Module | 1 | Wireless voice/text command input from phone |
 | L298N Motor Driver | 1 | Driving the DC motors |
-| DC Geared Motors | 2–4 | Robot locomotion |
+| DC Geared Motors | 4 | Robot locomotion |
 | Robot Chassis + Wheels | 1 set | Mechanical base |
-| Servo Motor (optional) | 1 | Rotating ultrasonic sensor for wider scanning |
+| Servo Motor  | 1 | Rotating ultrasonic sensor for wider scanning |
 | Li-ion/LiPo Battery Pack | 1 | Power supply |
 
-*(Update the table above with your exact part counts/models.)*
+
 
 ## Circuit Diagram
-*(Add a schematic or Fritzing/hand-drawn wiring diagram image here, e.g.:)*
 
 ```
-![Circuit Diagram](media/circuit-diagram.png)
+"C:\Users\tiafe\Downloads\voicecontrolrobot.jpeg"
 ```
 
 ## How It Works
