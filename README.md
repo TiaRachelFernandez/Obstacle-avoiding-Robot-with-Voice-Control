@@ -26,7 +26,8 @@ The objective of this project is to design and implement an intelligent mobile r
 ## Circuit Diagram
 
 ```
-"C:\Users\tiafe\Downloads\voicecontrolrobot.jpeg"
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/1238ccd2-b07d-4c23-8ba9-38bb1307741b" />
+C:\Users\tiafe\Downloads\voicecontrolrobot.jpeg
 ```
 
 ## How It Works
