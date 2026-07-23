@@ -1,50 +1,49 @@
-# Prerequisites
+# ---- Prerequisites ----
 *.d
 
-# Compiled Object files
+# ---- Compiled Object files ----
 *.slo
 *.lo
 *.o
 *.obj
 
-# Precompiled Headers
+# ---- Precompiled Headers ----
 *.gch
 *.pch
 
-# Linker files
+# ---- Linker files ----
 *.ilk
 
-# Debugger Files
+# ---- Debugger Files ----
 *.pdb
 
-# Compiled Dynamic libraries
+# ---- Compiled Dynamic libraries ----
 *.so
 *.dylib
 *.dll
 *.so.*
 
-
-# Fortran module files
+# ---- Fortran module files ----
 *.mod
 *.smod
 
-# Compiled Static libraries
+# ---- Compiled Static libraries ----
 *.lai
 *.la
 *.a
 *.lib
 
-# Executables
+# ---- Executables ----
 *.exe
 *.out
 *.app
 
-# Build directories
+# ---- Build directories ----
 build/
 Build/
 build-*/
 
-# CMake generated files
+# ---- CMake generated files ----
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
@@ -52,18 +51,55 @@ Makefile
 install_manifest.txt
 compile_commands.json
 
-# Temporary files
+# ---- Temporary files ----
 *.tmp
 *.log
 *.bak
 *.swp
+*.swo
 
-# vcpkg
+# ---- vcpkg ----
 vcpkg_installed/
 
-# debug information files
+# ---- Debug information files ----
 *.dwo
 
-# test output & cache
+# ---- Test output & cache ----
 Testing/
 .cache/
+
+# ---- Arduino / Embedded build outputs ----
+*.hex
+*.bin
+*.elf
+*.eep
+*.map
+
+# ---- Arduino IDE ----
+*.orig
+sketchbook/
+
+# ---- PlatformIO ----
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# ---- OS junk files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Editor/IDE settings ----
+.vscode/
+.idea/
+
+# ---- KiCad backups (if using KiCad for PCB/schematics) ----
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache
+
+# ---- Sensitive files ----
+*.env
+secrets.h
+credentials.h
