@@ -21,6 +21,11 @@ The objective of this project is to design and implement an intelligent mobile r
 | Servo Motor  | 1 | Rotating ultrasonic sensor for wider scanning |
 | Li-ion/LiPo Battery Pack | 1 | Power supply |
 
+Circuit Diagram
+
+(Add a schematic or Fritzing/hand-drawn wiring diagram image here, e.g.:)
+
+![Circuit Diagram](media/circuit-diagram.png)<img width="907" height="1028" alt="circuit-diagram" src="https://github.com/user-attachments/assets/93ccc093-9de6-4c85-af90-a466b3d57cf4" />
 
 
 
